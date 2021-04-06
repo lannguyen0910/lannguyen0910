@@ -9,7 +9,7 @@
 [![lannguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lannguyen0910&show_icons=true&theme=outrun&count_private=true)](https://github.com/lannguyen0910)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&theme=outrun&repo=covid-19_analysis)](https://github.com/lannguyen0910/covid-19_analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&theme=outrun&repo=minimax_tictactoe)](https://github.com/lannguyen0910/minimax_tictactoe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&theme=outrun&repo=cassava_leaf_classification)](https://github.com/lannguyen0910/cassava_leaf_classification)
 
 <!--
 **lannguyen0910/lannguyen0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
