@@ -69,24 +69,24 @@ Here are some ideas to get you started:
 
 ---
 
-<a><h2>:chart_with_upwards_trend: Stats</h2></a>
+<a><h2>:chart_with_upwards_trend: My Github Stats</h2></a>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lannguyen0910&show_icons=true&theme=react&count_private=true&line_height=40" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannguyen0910&theme=react&count_private=true&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lannguyen0910&show_icons=true&theme=radical&count_private=true&line_height=40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannguyen0910&theme=radical&count_private=true&hide=jupyter%20notebook" />
 </div>
 
 </a>
 <a href="https://github.com/lannguyen0910/slack-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=slack-bot&show_owner&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=slack-bot&show_owner&theme=radical" />
 </a>
 
 <a href="https://github.com/lannguyen0910/cassava_leaf_classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=cassava_leaf_classification&show_owner&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=cassava_leaf_classification&show_owner&theme=radical" />
 
 ---
 
 <a><h2>:crossed_swords: Activities</h2></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lannguyen0910&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lannguyen0910&theme=radical)](https://git.io/streak-stats)
 
 ---
 
