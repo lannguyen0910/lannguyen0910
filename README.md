@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 </a>
 <a href="https://github.com/lannguyen0910/slack-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=slack-bot&show_owner&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=deep-efficient-person-reid&show_owner&theme=radical" />
 </a>
 
 <a href="https://github.com/lannguyen0910/cassava_leaf_classification">
