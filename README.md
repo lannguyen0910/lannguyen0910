@@ -77,10 +77,10 @@ Here are some ideas to get you started:
 
 </a>
 
-<a href="https://github.com/lannguyen0910/yolov5-meal-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=yolov5-meal-detection&show_owner&theme=radical" />
+<a href="https://github.com/lannguyen0910/yolov5-online-food-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=yolov5-online-food-detection&show_owner&theme=radical" />
 	
-<a href="https://github.com/lannguyen0910/slack-bot">
+<a href="https://github.com/lannguyen0910/deep-efficient-person-reid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=deep-efficient-person-reid&show_owner&theme=radical" />
 </a>
 
