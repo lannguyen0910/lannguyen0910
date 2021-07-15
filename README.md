@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 
 </a>
 
-<a href="https://github.com/lannguyen0910/food-analysis-webapp-yolov5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=food-analysis-webapp-yolov5&show_owner&theme=radical" />
+<a href="https://github.com/lannguyen0910/food-detection-yolov5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=food-detection-yolov5&show_owner&theme=radical" />
 	
 <a href="https://github.com/lannguyen0910/deep-efficient-person-reid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=deep-efficient-person-reid&show_owner&theme=radical" />
