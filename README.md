@@ -20,54 +20,51 @@ Here are some ideas to get you started:
  <img src="https://badges.pufler.dev/commits/monthly/lannguyen0910/"/>
 </p>
 
-### Hi i'm Lan 👋
-
-- 😄 My name is Hoang-Lan Nguyen, i am currently a 3rd year Computer Science student of Honors Program of University of Science, Ho Chi Minh city.
-- 🌱 I’m currently learning new things about AI/ML/DL, Web/Mobile Development.
-- 📫 My Student Email: 18120051@student.hcmus.edu.vn
-
----
-
-<h2>🔭 Technology Stack</h2>
+<h3 align="center">
+        <samp>&gt; 👋 Hello World!, I am
+                <b><a>Hoang-Lan Nguyen</a></b>
+        </samp>
+</h3>
 
 <p align="center">
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<!-- Organisation  -->
+        <samp>
+		「 From <b>Ho Chi Minh city</b>, <b>Vietnam</b> 」
+                <br>
+		「 3<sup>rd</sup> Student, Honors Program, Computer Science @<b> Unviersity of Science (VNU)</b> 」
+                <br>
+                <br>
+        </samp>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Code"
+		src="https://img.shields.io/badge/-code-000000?style=for-the-badge&logo=Plex&logoColor=white">
+	</a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="C++"
+		src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="JS"
+		src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Python"
+		src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="OpenCV"
+		src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Pytorch"
+		src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Flask"
+		src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Latex"
+		src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Git"
+		src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>	
+	
 </p>
 
-<!-- ---
-<a><h2>Technologies</h2></a>
-<p>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
- -->
----
-
-<a><h2>🏆 Trophies</h2></a>
-<a>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lannguyen0910&column=8&theme=onedark&no-bg=true&no-frame=true"/>
-</a>
-
----
+<!-- Details Section-->
+<details open align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+    <p align="center">
+	 <a><h2>🏆 Trophies</h2></a>
+	<a>
+	  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lannguyen0910&column=8&theme=onedark&no-bg=true&no-frame=true"/>
+	</a>
 
 <a><h2>:chart_with_upwards_trend: My Github Stats</h2></a>
 <div>
@@ -96,3 +93,5 @@ Here are some ideas to get you started:
 <img href="https://www.facebook.com/nguyen.hoang.lan.2000/" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:18120051@student.hcmus.edu.vn"/>
 <img href="https://www.facebook.com/nguyen.hoang.lan.2000/" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </p>
+
+</details>
