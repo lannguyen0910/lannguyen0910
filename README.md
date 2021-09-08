@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">
         <samp>&gt; 👋 Hello World!, I am
-                <b><a>Hoang-Lan Nguyen</a></b>
+                <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen</a></b>
         </samp>
 </h3>
 
