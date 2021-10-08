@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://badges.pufler.dev/visits/lannguyen0910/lannguyen0910"/> 
  <img src="https://badges.pufler.dev/repos/lannguyen0910"/>
- <img src="https://badges.pufler.dev/commits/monthly/lannguyen0910/"/>
 </p>
 
 <h3 align="center">
@@ -92,6 +91,9 @@ Here are some ideas to get you started:
 <p align="center">  
 <img href="https://www.facebook.com/nguyen.hoang.lan.2000/" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:18120051@student.hcmus.edu.vn"/>
 <img href="https://www.facebook.com/nguyen.hoang.lan.2000/" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+	<img href="https://www.linkedin.com/in/lanhoangnguyen/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+	
+	
 </p>
 
 </details>
