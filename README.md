@@ -30,7 +30,7 @@ Here are some ideas to get you started:
         <samp>
 		「 From <b>Ho Chi Minh city</b>, <b>Vietnam</b> 」
                 <br>
-		「 3<sup>rd</sup> Student, Honors Program, Computer Science @<b> Unviersity of Science (VNU)</b> 」
+		「 4<sup>th</sup> year Student, Honors Program, Computer Science @<b> Unviersity of Science (VNU)</b> 」
                 <br>
                 <br>
         </samp>
