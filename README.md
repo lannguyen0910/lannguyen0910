@@ -62,12 +62,12 @@ Here are some ideas to get you started:
     <p align="center">
 	 <a><h2>🏆 Trophies</h2></a>
 	<a>
-	  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lannguyen0910&column=8&theme=onedark&no-bg=true&no-frame=true"/>
+	  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lannguyen0910&count_private=true&column=8&theme=onedark&no-bg=true&no-frame=true"/>
 	</a>
 
 <a><h2>:chart_with_upwards_trend: My Github Stats</h2></a>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lannguyen0910&show_icons=true&theme=radical&count_private=true&line_height=40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lannguyen0910&count_private=true&show_icons=true&theme=radical&line_height=40" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannguyen0910&theme=radical&count_private=true&hide=jupyter%20notebook" />
 </div>
 
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 ---
 
 <a><h2>:crossed_swords: Activities</h2></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lannguyen0910&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lannguyen0910&count_private=true&theme=radical)](https://git.io/streak-stats)
 
 ---
 
