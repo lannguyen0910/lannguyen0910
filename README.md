@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">
-        <samp>&gt; 👋 Hello World!, I am
+        <samp>&gt; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello World!, I'm
                 <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen</a></b>
         </samp>
 </h3>
