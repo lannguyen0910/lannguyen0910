@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="center">
-        <samp>&gt; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello World!, I'm
-                <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen</a></b>
+        <samp>&gt; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World!, I'm
+                <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/></a></b>
         </samp>
 </h3>
 
