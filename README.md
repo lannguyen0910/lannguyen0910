@@ -14,49 +14,50 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
- <img src="https://badges.pufler.dev/visits/lannguyen0910/lannguyen0910"/> 
- <img src="https://badges.pufler.dev/repos/lannguyen0910"/>
-</p>
+
 
 <h3 align="center">
-        <samp>&gt; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World!, I'm
-                <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/></a></b>
+        <samp><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to
+                <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen</a>'s profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/></b>
         </samp>
 </h3>
 
 <p align="center">
-<!-- Organisation  -->
-        <samp>
-		「 From <b>Ho Chi Minh city</b>, <b>Vietnam</b> 」
-                <br>
-		「 4<sup>th</sup> year Student, Honors Program, Computer Science @<b> Unviersity of Science (VNU)</b> 」
-                <br>
-                <br>
-        </samp>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Code"
-		src="https://img.shields.io/badge/-code-000000?style=for-the-badge&logo=Plex&logoColor=white">
-	</a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="C++"
-		src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="C#"src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="JS"
-		src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Python"
-		src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="OpenCV"
-		src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Pytorch"
-		src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>	
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Linux"
-		src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Shell Script"
-		src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Docker"
-		src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7448E&lines=Hello+World!+I'm+Hoang-Lan+Nguyen;CS+student+-+AI+Engineer+Intern;Passionate+in+learning+AI%2C+CS;Learn%2C+learn+more%2C+learn+forever&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 	
 </p>
 
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center">
+
+	
+ <img src="https://badges.pufler.dev/visits/lannguyen0910/lannguyen0910"/> 
+ <img src="https://badges.pufler.dev/repos/lannguyen0910"/>
+	<br>
+	<br>
+	
+  <a href="https://github.com/lannguyen0910?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lannguyen0910"/></a>
+  <a href="https://github.com/lannguyen0910?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lannguyen0910?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+	
+</p>
+
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/lannguyen0910/github-readme-stats -->
+<!-- <p align="center">
+  <a href="https://github.com/lannguyen0910/github-readme-streak-stats"><img width="282" src="https://lannguyen0910-github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/lannguyen0910/readme-typing-svg"><img width="282" src="https://lannguyen0910-github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/lannguyen0910/custom-icon-badges"><img width="282" src="https://lannguyen0910-github-readme-stats.vercel.app/api/pin?username=lannguyen0910&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+</p>
+ -->
 <!-- Details Section-->
 <details open align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
@@ -68,32 +69,36 @@ Here are some ideas to get you started:
 
 <a><h2>:chart_with_upwards_trend: My Github Stats</h2></a>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=lannguyen0910&count_private=true&show_icons=true&theme=radical&line_height=40" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannguyen0910&theme=radical&count_private=true&hide=jupyter%20notebook" />
+	
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lannguyen0910's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lannguyen0910&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lannguyen0910's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lannguyen0910&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>
 
 </a>
 
 <a href="https://github.com/lannguyen0910/food-detection-yolov5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=food-detection-yolov5&show_owner&theme=radical" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=food-detection-yolov5&show_owner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 	
 <a href="https://github.com/lannguyen0910/deep-efficient-person-reid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=deep-efficient-person-reid&show_owner&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=deep-efficient-person-reid&show_owner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 	
 <a href="https://github.com/lannguyen0910/face-mask-yolov5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=face-mask-yolov5&show_owner&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=face-mask-yolov5&show_owner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 	
 <a href="https://github.com/lannguyen0910/image-deep-hash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=image-deep-hash&show_owner&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=image-deep-hash&show_owner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
+	
+
 
 ---
 
 <a><h2>:crossed_swords: Activities</h2></a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lannguyen0910&count_private=true&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lannguyen0910&count_private=true&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
 
 ---
+	
 
 <a><h2>:telephone_receiver: Contact me at </h2></a>
 <p align="center">  
