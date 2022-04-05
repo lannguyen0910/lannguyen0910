@@ -18,14 +18,19 @@ Here are some ideas to get you started:
 
 <h3 align="center">
         <samp><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to
-                <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen</a>'s profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/></b>
+                <b><a target="_blank"  href="https://github.com/lannguyen0910">Hoang-Lan Nguyen</a>'s profile <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </b>
         </samp>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7448E&lines=Hello+World!+I'm+Hoang-Lan+Nguyen;CS+student+-+AI+Engineer+Intern;Passionate+in+learning+AI%2C+CS;Learn%2C+learn+more%2C+learn+forever&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-	
+	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
 </p>
+
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7448E&lines=Hello+World!+I'm+Hoang-Lan+Nguyen;CS+student+-+AI+Engineer+Intern;Passionate+in+learning+AI%2C+CS;Learn%2C+learn+more%2C+learn+forever&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+
+
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
@@ -59,6 +64,7 @@ Here are some ideas to get you started:
 </p>
  -->
 <!-- Details Section-->
+
 <details open align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
