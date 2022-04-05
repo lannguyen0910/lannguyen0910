@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 	
 </p>
 
+
+
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/lannguyen0910/github-readme-stats -->
 <!-- <p align="center">
@@ -71,8 +73,31 @@ Here are some ideas to get you started:
 	 <a><h2>🏆 Trophies</h2></a>
 	<a>
 	  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lannguyen0910&count_private=true&column=8&theme=onedark&no-bg=true&no-frame=true"/>
-	</a>
-
+	</a>  
+	<br>   
+	<a><h2>👨‍💻 Programming languages</h2></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Code"
+	src="https://img.shields.io/badge/-code-000000?style=for-the-badge&logo=Plex&logoColor=white">
+	</a>  
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="C++"
+		src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="C#"src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="JS"
+		src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Java"
+		src="https://img.shields.io/badge/Java-%23EE4C2C.svg?style=for-the-badge&logo=java&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Python"
+		src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="OpenCV"
+		src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Pytorch"
+		src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>	
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Linux"
+		src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Docker"
+		src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+</p>
+	    
 <a><h2>:chart_with_upwards_trend: My Github Stats</h2></a>
 <div>
 	
