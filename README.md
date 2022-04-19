@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 	  <img width=800 src="https://github-profile-trophy.vercel.app/?username=lannguyen0910&count_private=true&column=8&theme=onedark&no-bg=true&no-frame=true"/>
 	</a>  
 	<br>   
-	<a><h2>👨‍💻 Programming languages</h2></a>
+	<a><h2>👨‍💻 Technologies</h2></a>
 	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="Code"
 	src="https://img.shields.io/badge/-code-000000?style=for-the-badge&logo=Plex&logoColor=white">
 	</a>  
