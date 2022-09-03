@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
 </p>
 
-<p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7448E&lines=Hello+World!+I'm+Hoang-Lan+Nguyen;CS+student+-+AI+Engineer+Intern;Passionate+in+learning+AI%2C+CS;Learn%2C+learn+more%2C+learn+forever&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 
@@ -39,12 +37,6 @@ Here are some ideas to get you started:
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
 
-	
- <img src="https://badges.pufler.dev/visits/lannguyen0910/lannguyen0910"/> 
- <img src="https://badges.pufler.dev/repos/lannguyen0910"/>
-	<br>
-	<br>
-	
   <a href="https://github.com/lannguyen0910?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lannguyen0910"/></a>
   <a href="https://github.com/lannguyen0910?tab=followers">
