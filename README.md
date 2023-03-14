@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 <!-- YouTube stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
-<p align="center">
-![](https://komarev.com/ghpvc/?username=lannguyen0910&color=brightgreen&style=flat-square)
-</p>
+<!-- ![](https://komarev.com/ghpvc/?username=lannguyen0910&color=brightgreen&style=flat-square) -->
 <p align="center">
   <a href="https://github.com/lannguyen0910?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lannguyen0910"/></a>
