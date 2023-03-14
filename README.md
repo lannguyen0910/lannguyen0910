@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
 </p>
 
-</p>
+
 
 
 
@@ -44,6 +44,8 @@ Here are some ideas to get you started:
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lannguyen0910?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 	
 </p>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!-- Details Section-->
