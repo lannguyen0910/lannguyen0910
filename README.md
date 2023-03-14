@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
-![](https://komarev.com/ghpvc/?username=lannguyen0910&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=lannguyen0910&color=brightgreen&style=flat-square)
 </p>
 <p align="center">
   <a href="https://github.com/lannguyen0910?tab=repositories&sort=stargazers">
