@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
-
+![](https://komarev.com/ghpvc/?username=lannguyen0910&color=blueviolet&style=flat-square)
+</p>
+<p align="center">
   <a href="https://github.com/lannguyen0910?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lannguyen0910"/></a>
   <a href="https://github.com/lannguyen0910?tab=followers">
@@ -46,21 +48,9 @@ Here are some ideas to get you started:
 </p>
 
 
-
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/lannguyen0910/github-readme-stats -->
-<!-- <p align="center">
-  <a href="https://github.com/lannguyen0910/github-readme-streak-stats"><img width="282" src="https://lannguyen0910-github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/lannguyen0910/readme-typing-svg"><img width="282" src="https://lannguyen0910-github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/lannguyen0910/custom-icon-badges"><img width="282" src="https://lannguyen0910-github-readme-stats.vercel.app/api/pin?username=lannguyen0910&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=LaTeX-Gboard-Dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
-</p>
- -->
 <!-- Details Section-->
 
-<details open align="center">
+<details align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
 	 <a><h2>🏆 Trophies</h2></a>
@@ -105,13 +95,6 @@ Here are some ideas to get you started:
 	
 <a href="https://github.com/lannguyen0910/deep-efficient-person-reid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=deep-efficient-person-reid&show_owner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-</a>
-	
-<a href="https://github.com/lannguyen0910/face-mask-yolov5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=face-mask-yolov5&show_owner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-	
-<a href="https://github.com/lannguyen0910/image-deep-hash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lannguyen0910&repo=image-deep-hash&show_owner&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 	
 
