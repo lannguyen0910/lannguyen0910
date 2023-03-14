@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">
+<!-- <h3 align="center">
         <samp> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> Welcome to
                 <b> Hoang-Lan Nguyen's profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </b>
         </samp>
 </h3>
-<br>
+<br> -->
 <h4 align="center">👋 Hi, I’m Hoang-Lan. I’m an apprentice Data Engineer.</h4>
 <h4 align="center">🔭 I’m interested in data engineering, cloud computing, machine learning and deep learning.</h4>
 <h4 align="center">📫 My email: <a href="mailto:nhlan091000@gmail.com">nhlan091000@gmail.com</a>.</h4>
