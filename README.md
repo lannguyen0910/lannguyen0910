@@ -47,9 +47,6 @@ Here are some ideas to get you started:
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/lannguyen0910?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 	
 </p>
-<h2 align="center">👨‍🏫 Profile 3D</h2>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
 	<h2>👨‍💻 Tech stacks</h2>
@@ -82,7 +79,12 @@ Here are some ideas to get you started:
 	<a href="https://github.comlannguyen0910?tab=repositories" target="_blank"><img alt="GCP"
 		src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </div>
-	
+
+<h2 align="center">👨‍🏫 Profile 3D</h2>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 <!-- Details Section-->
 <br>
