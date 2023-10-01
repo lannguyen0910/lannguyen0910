@@ -22,8 +22,9 @@ Here are some ideas to get you started:
         </samp>
 </h3>
 <br> -->
-<h4 align="center">👋 Hi, I’m Hoang-Lan. I’m an apprentice Data Engineer.</h4>
-<h4 align="center">🔭 I’m interested in data engineering, cloud computing, machine learning and deep learning.</h4>
+
+<h4 align="center">👋 Hi, I’m Hoang-Lan. I’m a Master's student in Germany, formerly an apprentice Data Engineer.</h4>
+<h4 align="center">🔭 I’m interested in data engineering, cloud computing, machine learning, and deep learning.</h4>
 <h4 align="center">📫 My email: <a href="mailto:nhlan091000@gmail.com">nhlan091000@gmail.com</a>.</h4>
 
 <h4 align="center">🙋‍♂️ More about me: ✨ https://lannguyende.com/ ✨</h4>
